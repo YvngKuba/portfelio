@@ -1,3 +1,3 @@
-version=0.4.1
-url=https://github.com/YvngKuba/portfelio/releases/download/0.4.1/PORTFELIO_0.4.1_x64-setup.exe
-sha256=331DD8AF6769811738591B94F15D36732236BAF44A32F78620BBBAFAC2D65406
+version=0.4.2
+url=https://github.com/YvngKuba/portfelio/releases/download/0.4.2/PORTFELIO_0.4.2_x64-setup.exe
+sha256=B7F070AB2D1637AE7633E50BB250F20B3146F4AD435713C2BE4F6EE65D56D81B
